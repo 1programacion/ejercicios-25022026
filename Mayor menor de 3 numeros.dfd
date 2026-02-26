@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Ingrese sus 3 valores para determinar cual es el mayor y cual es el menor'
+5
+1
+14
+num1,num2,num3
+7
+0
+1
+23
+num1>num2 and num1>num3
+7
+0
+1
+23
+num2>num1 and num2>num3
+7
+0
+1
+23
+num3>num2 and num3>num1
+4
+1
+47
+'HAY NUMEROS QUE SE REPITEN INTENTELO DE NUEVO'
+13
+4
+1
+27
+'El numero mayor es: ',num3
+7
+0
+1
+9
+num1<num2
+4
+1
+27
+'El numero menor es: ',num2
+13
+4
+1
+27
+'El numero menor es: ',num1
+13
+13
+13
+4
+1
+27
+'El numero mayor es: ',num2
+7
+0
+1
+9
+num1<num3
+4
+1
+27
+'El numero menor es: ',num3
+13
+4
+1
+27
+'El numero menor es: ',num1
+13
+13
+13
+4
+1
+27
+'El numero mayor es: ',num1
+7
+0
+1
+9
+num2<num3
+4
+1
+27
+'El numero menor es: ',num3
+13
+4
+1
+27
+'El numero menor es: ',num2
+13
+13
+4
+1
+8
+'Denada'
+1
